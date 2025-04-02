@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Download Affirmation Cards | MDH 5280</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #fdf6f0;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+    .container {
+      max-width: 700px;
+      margin: auto;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    .logo {
+      max-width: 200px;
+      margin: 0 auto 30px;
+    }
+    h1 {
+      font-size: 2.5em;
+      color: black;
+    }
+    p {
+      font-size: 30px;
+      margin-bottom: 30px;
+      font-family: sans-serif;
+    }
+    .preview {
+      margin-bottom: 30px;
+    }
+    .preview img {
+      max-width: 100%;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+    .download-btn {
+      background: #ff8c42;
+      color: white;
+      padding: 15px 30px;
+      font-size: 1.1em;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      text-decoration: none;
+      display: inline-block;
+      transition: background 0.3s;
+    }
+    .download-btn:hover {
+      background: #e6772e;
+    }
+    .extra-image {
+      margin-top: 40px;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      font-size: 0.9em;
+      color: #777;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+
+    <!-- Logo -->
+    <div class="logo">
+      <a data-flickr-embed="true" href="https://www.flickr.com/photos/201102932@N05/54427375245/in/dateposted-public/" title="MDH Logo (final)">
+        <img src="https://live.staticflickr.com/65535/54427375245_22ee7baf67_b.jpg" width="200" alt="MDH Logo (final)" />
+      </a>
+    </div>
+
+    <h1>Daily Dose of Positivity</h1>
+    <p>Nourish your mind with a daily dose of positivity and intention. These free printable cards are designed to help you start each day with confidence, clarity, and self-love.</p>
+    
+<!-- Extra Centered Images in a Seamless Row -->
+<div class="extra-image-row" style="display: flex; justify-content: center; align-items: flex-start; margin-top: 40px; flex-wrap: nowrap; overflow-x: auto;">
+
+    <!-- Artboard 1 -->
+    <a data-flickr-embed="true" href="https://www.flickr.com/photos/201102932@N05/54427002511/in/dateposted-public/" title="Artboard 1" style="flex: 1;">
+      <img src="https://live.staticflickr.com/65535/54427002511_dbb8a0546e_b.jpg" style="width: 100%; border-radius: 0;" alt="Artboard 1" />
+    </a>
+  
+    <!-- Artboard 2 -->
+    <a data-flickr-embed="true" href="https://www.flickr.com/photos/201102932@N05/54426145672/in/dateposted-public/" title="Artboard 2" style="flex: 1;">
+      <img src="https://live.staticflickr.com/65535/54426145672_3ca90aedc3_b.jpg" style="width: 100%; border-radius: 0;" alt="Artboard 2" />
+    </a>
+  
+    <!-- Artboard 3 -->
+    <a data-flickr-embed="true" href="https://www.flickr.com/photos/201102932@N05/54427248228/in/dateposted-public/" title="Artboard 3" style="flex: 1;">
+      <img src="https://live.staticflickr.com/65535/54427248228_56f48163c6_b.jpg" style="width: 100%; border-radius: 0;" alt="Artboard 3" />
+    </a>
+  
+  </div>
+  
+  
+
+  <footer>
+    &copy; 2025 MDH 5280 | Your Daily Dose of Positive Vibes ✨
+  </footer>
+
+
+</body>
+</html>
